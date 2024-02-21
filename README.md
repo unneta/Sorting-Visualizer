@@ -17,21 +17,21 @@ Key Features:
 1. Visual Representation:
 
   Experience the sorting process with color-coded visuals:
-  a. White: Default state
-  b. Yellow: Elements being compared
-  c. Red: Elements identified as incorrectly positioned
-  d. Green: Elements in their correct positions
+  * White: Default state
+  * Yellow: Elements being compared
+  * Red: Elements identified as incorrectly positioned
+  * Green: Elements in their correct positions
 
 2. Control Options:
 
-  a. Adjust the speed of visualization with five speed levels.
-  b. Customize data size to observe algorithm behavior with varying datasets.
-  c. Generate new data instantly with random data generation.
+  * Adjust the speed of visualization with five speed levels.
+  * Customize data size to observe algorithm behavior with varying datasets.
+  * Generate new data instantly with random data generation.
 
 3. Complexity Analysis:
 
-  a. Access detailed information about the time and space complexity of each algorithm.
-  b. Gain insights into the efficiency and performance characteristics of sorting methods.
+  * Access detailed information about the time and space complexity of each algorithm.
+  * Gain insights into the efficiency and performance characteristics of sorting methods.
 
 Embark on a journey through time and space complexity as you explore the efficiency of sorting algorithms like never before. Start visualizing now and enhance your understanding of these fundamental concepts in computer science!
 
