@@ -2,7 +2,7 @@
 
 Welcome to Sorting Algorithm Visualizer! Dive into the fascinating world of sorting algorithms with our interactive platform. It offers a dynamic visual representation of various sorting techniques, allowing you to witness the inner workings of each algorithm in action.
 
-Implemented Algorithms:
+## Implemented Algorithms:
 
 1. Bubble Sort
 2. Selection Sort
@@ -12,7 +12,7 @@ Implemented Algorithms:
 6. Heap Sort
 
 
-Key Features:
+## Key Features:
 
 1. Visual Representation:
 
