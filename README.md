@@ -34,3 +34,6 @@ Key Features:
   Gain insights into the efficiency and performance characteristics of sorting methods.
 
 Embark on a journey through time and space complexity as you explore the efficiency of sorting algorithms like never before. Start visualizing now and enhance your understanding of these fundamental concepts in computer science!
+
+
+Check out the live version here: https://unneta.github.io/Sorting-Visualizer/
