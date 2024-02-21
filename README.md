@@ -1,4 +1,4 @@
-Welcome to our Sorting Algorithm Visualizer! Dive into the fascinating world of sorting algorithms with our interactive platform. We offer a dynamic visual representation of various sorting techniques, allowing you to witness the inner workings of each algorithm in action.
+Welcome to Sorting Algorithm Visualizer! Dive into the fascinating world of sorting algorithms with our interactive platform. It offers a dynamic visual representation of various sorting techniques, allowing you to witness the inner workings of each algorithm in action.
 
 Implemented Algorithms:
 
