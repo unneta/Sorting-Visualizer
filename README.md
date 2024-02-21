@@ -16,7 +16,7 @@ Key Features:
 
 1. Visual Representation:
 
-  Experience the sorting process with color-coded visuals:
+      Experience the sorting process with color-coded visuals:
   * White: Default state
   * Yellow: Elements being compared
   * Red: Elements identified as incorrectly positioned
